@@ -1,4 +1,4 @@
-# Sentiment Analysis of Movie Reviews
+# Movie Review Analysis
 
 ## About
 This is an instructor-guided Data Science project of an international workshop - The Data Forge: Workshop and Contest, organized by NSDC-HerWILL Chapter Program. NSDC is the Northeast Big Data Innovation Hub’s National Student Data Corps (NSDC), part of Columbia University’s Data Science Institute.
@@ -38,6 +38,18 @@ Preprocessed data were split into 2 categories - training (first 40,000 data) an
 
 ## Data Visualization
 To visualize the word frequnecy for a specific sentiment polarity, `WordCloud` function from the `wordcloud` package was used.
+
+<table>
+  <tr>
+    <td align="center"><img src="https://github.com/ArnabUshna24/Movie-Review-Analysis/blob/main/positive_sentiment.png" alt="Positive Sentiment" width="300"/></td>
+    <td align="center"><img src="https://github.com/ArnabUshna24/Movie-Review-Analysis/blob/main/negative_sentiment.png" alt="Negative Sentiment" width="300"/></td>
+  </tr>
+  <tr>
+    <td align="center"> Fig. 1: Frequently used words having positive sentiment </td>
+    <td align="center"> Fig. 2: Frequently used words having negative sentiment </td>
+  </tr>
+</table>
+
 
 
 ## Build from Source
