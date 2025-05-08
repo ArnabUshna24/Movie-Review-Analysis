@@ -33,7 +33,7 @@ Preprocessed data were split into 2 categories - training (first 40,000 data) an
 
 
 ## Building the Model
-`MultinomialNB` function from `sklearn.naive_bayes` package was used to build the model.
+Multinomial Naive Bayes (`MultinomialNB` function from `sklearn.naive_bayes` package) was used to build the model.
 
 
 ## Data Visualization
@@ -50,6 +50,9 @@ To visualize the word frequnecy for a specific sentiment polarity, `WordCloud` f
   </tr>
 </table>
 
+
+## Model Accuracy
+Multinomial Naive Bayes: 0.7425
 
 
 ## Build from Source
