@@ -41,8 +41,8 @@ To visualize the word frequnecy for a specific sentiment polarity, `WordCloud` f
 
 <table>
   <tr>
-    <td align="center"><img src="https://github.com/ArnabUshna24/Movie-Review-Analysis/blob/main/positive_sentiment.png" alt="Positive Sentiment" width="300"/></td>
-    <td align="center"><img src="https://github.com/ArnabUshna24/Movie-Review-Analysis/blob/main/negative_sentiment.png" alt="Negative Sentiment" width="300"/></td>
+    <td align="center"><img src="https://github.com/ArnabUshna24/Movie-Review-Analysis/blob/main/visualizations/positive_sentiment.png" alt="Positive Sentiment" width="300"/></td>
+    <td align="center"><img src="https://github.com/ArnabUshna24/Movie-Review-Analysis/blob/main/visualizations/negative_sentiment.png" alt="Negative Sentiment" width="300"/></td>
   </tr>
   <tr>
     <td align="center"> Fig. 1: Frequently used words having positive sentiment </td>
