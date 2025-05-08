@@ -5,7 +5,7 @@ This is an instructor-guided Data Science project of an international workshop -
 
 
 ## Overview
-This project aimed to analyze the users' sentiments on movie reviews and classify them into two (2) classes - positive and negative. It serves following aspects:
+This project aims to analyze the users' sentiments on movie reviews and classify them into two (2) classes - `positive` and `negative`. It serves following aspects:
 
 * Retrieving and accessing the target `.csv` file;
 * Cleaning the data and preprocessing them;
