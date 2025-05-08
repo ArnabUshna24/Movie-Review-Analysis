@@ -38,3 +38,10 @@ Preprocessed data were split into 2 categories - training (first 40,000 data) an
 
 ## Data Visualization
 To visualize the word frequnecy for a specific sentiment polarity, `WordCloud` function from the `wordcloud` package was used.
+
+
+## Build from Source
+Instructions are provided in the `ipynb` file.
+
+
+If you have any queries, contact me: arnabnushna24@gmail.com
